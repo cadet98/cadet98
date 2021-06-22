@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Mern Stack Development
 - 💞️ I’m looking to collaborate on Web Applications
-- 📫 How to reach me ...
+- 📫 How to reach me on GitHub @cadet98 / Twitter @inventivecadet
 
 <!---
 cadet98/cadet98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
